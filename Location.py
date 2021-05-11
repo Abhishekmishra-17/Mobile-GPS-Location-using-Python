@@ -1,8 +1,8 @@
 author="__Created by Abhishek Mishra__"
-Note="""This project is only for accessing the GPS location of your android phone and sending the whatsapp messages with that location.
-But you can also send the SMS and call with particular respect. For that you can follow the twilio documentation. """
+#Note="""This project is only for accessing the GPS location of your android phone and sending the whatsapp messages with that location.
+#But you can also send the SMS and call with particular respect. For that you can follow the twilio documentation. """
 print(author,end="\n")
-print(Note)
+#print(Note)
 import time
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
