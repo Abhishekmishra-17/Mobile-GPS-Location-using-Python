@@ -1,2 +1,3 @@
-# Mobile-GPS-Location-using-Python
-<img href="images/IMG_20210511_201137.JPG"></img>
+# Steps that are include in this project
+## 1. Access the android camera to Python using OpenCV
+For accessing the android camera you can follow the steps given in<a href="https://mishraabhi8924.medium.com/access-the-android-camera-to-python-using-opencv-3d5901f01f23"> this blog</a>
